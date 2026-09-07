@@ -1,10 +1,10 @@
 # Weekly assignments
 
-This README gives you an overview of the assignment schedule. The deadline for submission is usually Fridays at 6:00pm in the week after the assignments are published.
+This README gives you an overview of the assignment schedule. Release date refers to the homework assignments A0 to A4. The deadline for submission is usually Fridays at 6:00pm in the week after the assignments are published.
 
 ## Assignment timeline
 
-| Session | Topic | Assignment | Release data |
+| Session | Topic | Assignment | Release date |
 |---------|-------|-----------|-----------|
 | 01 | What is data science? | Q0, A0 | Sep 03  | 
 | 02 | Programming I: Functions and debugging | Q1, A1 | Sep 11 | 
